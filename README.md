@@ -4,7 +4,7 @@
 - risposte a domande ed esempi
 - pratici in java per migliorare
 - i tempi di sviluppo della
-- mia App Androidc, dato che
+- mia App Android, dato che
 - chatGTP mi ha abandonato
 - con la pretesa di avere
 - informazioni private sul
